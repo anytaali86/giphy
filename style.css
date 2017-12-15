@@ -1,0 +1,29 @@
+
+body {
+	background-color: #e9e9ec;	
+}
+
+.gifs{
+	display: inline-block;
+	padding-right: 10px;
+	margin:15px auto;
+}
+
+/*
+.artist{
+	margin-right: 5px;
+	margin-top: 10px;
+}
+*/
+
+
+#footer {
+	color: white;
+    background-color: dimgrey; 
+	padding: 3% 40%; 
+}
+
+h1{
+    color: darkslategrey; 
+    font: times; 
+}
